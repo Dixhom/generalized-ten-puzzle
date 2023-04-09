@@ -10,10 +10,6 @@ The ten puzzle is a game to make 10 by applying the four arithmetic operations t
 
 In the ten puzzle, you make 10 with 4 numbers. In this code, you can make n using m numbers.
 
-# Webapp
-
-aaaaaaaaa
-
 # License
 
 MIT
